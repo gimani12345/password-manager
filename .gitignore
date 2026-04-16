@@ -1,0 +1,14 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docview
+
+# 민감한 데이터 파일
+*.dat
+*.json
